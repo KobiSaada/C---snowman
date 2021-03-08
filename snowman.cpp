@@ -16,7 +16,7 @@ namespace ariel
     const int size5 = 5;
     const int size6= 6;
     const int size7 = 7;
-    string snow =" ";
+    string snow ;
     vector<int> ans = splitdigit(snownum);
     for (int i = 0; i < ans.size(); i++)
     {
